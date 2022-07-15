@@ -5,6 +5,6 @@
 
 ## APP SISTEM LOKET ANTRIAN 
 
-**LINK YOU TUBE REVIEW SISTEM LOKET ANTRIAN**  => [Click Here]()
+**LINK YOU TUBE REVIEW SISTEM LOKET ANTRIAN**  => [Click Here](https://youtu.be/ZmqH1Npd-2Q)
 
 **DEMO WEB HOSTING** => [Click Here](http://ubay.epizy.com/)
